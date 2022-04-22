@@ -24,5 +24,10 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     }
+  },
+  "runtimeOptions": {
+    "configProperties": {
+      "System.Drawing.EnableUnixSupport": true
+    }
   }
 }
